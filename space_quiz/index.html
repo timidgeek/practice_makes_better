@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App</title>
+  <script src="quiz.js"></script>
+</head>
+<body>
+  <h1>Quiz</h1>
+
+  <p id="question">Can you breathe the air outside?</p>
+
+  <form id="quizForm">
+    <input type="radio" name="answer" value="yes"> Yes <br>
+    <input type="radio" name="answer" value="no"> No <br>
+    <input type="radio" name="answer" value="i dont know"> I don't know <br>
+    <input type="radio" name="answer" value="yes, but only once"> Yes, but only once <br>
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script>
+    document.getElementById('quizForm').addEventListener('submit', function(event) {
+      event.preventDefault(); // Prevent form submission
+      
+      // Get the selected answer
+      const selectedAnswer = document.querySelector('input[name="answer"]:checked').value;
+
+      // Calculate the score and determine the result
+      const score = calculateScore(selectedAnswer);
+      const result = determineResult(score);
+
+      // Display the score and result
+      document.getElementById('result').innerHTML = `<p>Total Score: ${score}</p><p>Result: ${result}</p>`;
+    });
+  </script>
+</body>
+</html>
