@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColorWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79c8e7ce5a95aabb78e192c3ec2b104fd69b4d18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45281fe7c5f1cda68a7571559553eb8233d6917")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColorWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColorWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
