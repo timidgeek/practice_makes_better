@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/barney.png",
+      "PackagePath": "staticwebassets/images/barney.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/blue.png",
+      "PackagePath": "staticwebassets/images/blue.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/coral.png",
+      "PackagePath": "staticwebassets/images/coral.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/cream.png",
+      "PackagePath": "staticwebassets/images/cream.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/grape.png",
+      "PackagePath": "staticwebassets/images/grape.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/green.png",
+      "PackagePath": "staticwebassets/images/green.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/hotpink.png",
+      "PackagePath": "staticwebassets/images/hotpink.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/lavender.png",
+      "PackagePath": "staticwebassets/images/lavender.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/lime_1.png",
+      "PackagePath": "staticwebassets/images/lime_1.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/lime_2.png",
+      "PackagePath": "staticwebassets/images/lime_2.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/olive.png",
+      "PackagePath": "staticwebassets/images/olive.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/orange.png",
+      "PackagePath": "staticwebassets/images/orange.png"
+    },
+    {
+      "Id": "/Users/Lindsey/Desktop/VSCode/practice-makes-better/c_sharp/BlazorApp/wwwroot/images/red.png",
+      "PackagePath": "staticwebassets/images/red.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorApp.props",
+      "PackagePath": "build\\BlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorApp.props",
+      "PackagePath": "buildTransitive\\BlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
