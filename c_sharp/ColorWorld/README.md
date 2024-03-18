@@ -1,0 +1,1 @@
+This app was created with `dotnet new blazorserver -n ColorWorld`, making it a Blazor Server App.

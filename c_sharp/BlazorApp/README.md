@@ -1,0 +1,1 @@
+This app was created with `dotnet new blazor -o BlazorApp`, making it a WebAssembly App.
